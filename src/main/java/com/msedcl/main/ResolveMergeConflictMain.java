@@ -6,7 +6,6 @@ public class ResolveMergeConflictMain {
 		// TODO Auto-generated method stub
 		System.out.println("ResolveMergeConflict Main");
 		System.out.println("ResolveMergeConflict Branch 2 Main");		
-
 	}
 
 }
